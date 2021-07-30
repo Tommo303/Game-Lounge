@@ -1,0 +1,24 @@
+body {
+    background-image: url('img/blue-nebula.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+} 
+
+.carousel {
+    height: 250px;
+    background-image: linear-gradient(to top, rgb(100, 100, 100, 0.6), rgb(255, 255, 255, 0.6));
+    border-bottom: solid 1px #333;
+}
+
+iframe {
+    height: 450px;
+    width: 770px;
+    padding: 10px 10px 10px 10px;
+    border: none;
+}
+
+::-webkit-scrollbar {
+    width: 0px;
+    opacity: 0;
+}

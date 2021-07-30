@@ -1,0 +1,19 @@
+{
+    "name": "Game Lounge",
+    "main": "index.html",
+    "icon": "./img/logo.png",
+    "version": "0.0.1",
+    "window": {
+        "title": "Game Lounge",
+        "icon": "./img/logo.png",
+        "toolbar": true,
+        "resizable": false,
+        "frame": true,
+        "fullscreen": false,
+        "width": 960,
+        "height": 650,
+        "min_width": 960,
+        "min_height": 650,
+        "position": "center"
+        }
+  }
